@@ -1,3 +1,5 @@
+
+
 # 注意事项
 
 1.说明
@@ -80,7 +82,7 @@ POST /posts/_doc/_bulk
 { "doc" : {"age" : 50} }
 ```
 
-# 2.Maven依赖
+# 2.es starter Maven相关依赖
 
         <dependency>
             <groupId>org.elasticsearch.client</groupId>
