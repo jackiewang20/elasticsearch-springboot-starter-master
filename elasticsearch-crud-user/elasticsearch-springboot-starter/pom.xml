@@ -27,7 +27,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.56</version>
+            <version>1.2.83</version>
         </dependency>
 
         <!-- 自定义配置：将自定义属性配置更新到元数据中，IDEA编写可以智能提示 -->
